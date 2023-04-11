@@ -6,6 +6,7 @@
 ## X-License: MIT
 ## DefaultState: enabled
 ## Dependencies: AdiBags
+## X-Curse-Project-ID: 848018
 
 Localization.lua
 dragonflightKnowledge.lua
