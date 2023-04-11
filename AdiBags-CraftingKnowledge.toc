@@ -1,7 +1,7 @@
 ## Title: AdiBags - Crafting Knowledge
 ## Interface: 100007
 ## X-Interface: 100007
-## Version: 1.0.0
+## Version: 1.0.1
 ## Author: Mastec
 ## X-License: MIT
 ## DefaultState: enabled
