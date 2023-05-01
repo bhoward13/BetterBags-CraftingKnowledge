@@ -84,6 +84,7 @@ local D = {
     [194061] = true, -- Suffocating Spores
     [194080] = true, -- Peculiar Bud
     [194081] = true, -- Mutated Root
+    [199115] = true, -- Herbalism Field Notes
     [200677] = true, -- Dreambloom Petal
     [200678] = true, -- Dreambloom
     [200980] = true, -- Dusty Herbalist's Notes
@@ -168,6 +169,7 @@ local D = {
     --#Skinning
     [198837] = true, -- Curious Hide Scraps
     [198841] = true, -- Large Sample of Curious Hide
+    [199128] = true, -- Skinning Field Notes
     [200982] = true, -- Dusty Skinner's Notes
     [201278] = true, -- Rare Skinner's Notes
     [201289] = true, -- Ancient Skinner's Notes
