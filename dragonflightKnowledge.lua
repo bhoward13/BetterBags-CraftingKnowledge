@@ -20,6 +20,9 @@ local D = {
     [201706] = true, -- Notebook of Crafting Knowledge (Alchemy)
     [203471] = true, -- Tasty Candy
     [204226] = true, -- Blazehoof Ashes
+    [205211] = true, -- Nutrient Diluted Protofluid
+    [205212] = true, -- Marrow-Ripened Slime
+    [205213] = true, -- Suspicious Mold
     --#Blacksmithing
     [192131] = true, -- Valdrakken Weapon Chain
     [192132] = true, -- Draconium Blade Sharpener
@@ -40,6 +43,9 @@ local D = {
     [201279] = true, -- Ancient Blacksmith's Diagrams
     [201708] = true, -- Notebook of Crafting Knowledge (Blacksmithing)
     [204230] = true, -- Dense Seaforged Javelin
+    [205986] = true, -- Well-Worn Kiln
+    [205987] = true, -- Brimstone Rescue Ring
+    [205988] = true, -- Zaqali Elder Spear
     --#Enchanting
     [193900] = true, -- Prismatic Focusing Shard
     [198610] = true, -- Enchanter's Script
@@ -63,6 +69,9 @@ local D = {
     [201360] = true, -- Glimmer of Order
     [201709] = true, -- Notebook of Crafting Knowledge (Enchanting)
     [204224] = true, -- Speck of Arcane Awareness
+    [204990] = true, -- Lava-Drenched Shadow Crystal
+    [204999] = true, -- Shimmering Aqueous Orb
+    [205001] = true, -- Resonating Arcane Crystal
     --#Engineering
     [193902] = true, -- Eroded Titan Gizmo
     [193903] = true, -- Watcher Power Core
@@ -77,6 +86,14 @@ local D = {
     [201284] = true, -- Ancient Engineer's Scribblings
     [201710] = true, -- Notebook of Crafting Knowledge (Engineering)
     [204227] = true, -- Everflowing Antifreeze
+    [204469] = true, -- Misplaced Aberrus Outflow Blueprints
+    [204470] = true, -- Haphazardly Discarded Bomb
+    [204471] = true, -- Defective Survival Pack
+    [204475] = true, -- Busted Wyrmhole Generator
+    [204480] = true, -- Inconspicuous Data Miner
+    [204850] = true, -- Handful of Khaz'gorite Bolts
+    [204853] = true, -- Discarded Dracothyst Drill
+    [204855] = true, -- Overclocked Determination Core
     --#Herbalism
     [194041] = true, -- Driftbloom Sprout
     [194054] = true, -- Dredged Seedling
@@ -112,6 +129,9 @@ local D = {
     [201280] = true, -- Ancient Scribe's Runic Drawings
     [201711] = true, -- Notebook of Crafting Knowledge (Inscriptioin)
     [204229] = true, -- Glimmering Rune of Arcantrix
+    [206031] = true, -- Intricate Zaqali Runes
+    [206034] = true, -- Hissing Rune Draft
+    [206035] = true, -- Ancient Research
     --#Jewelcrafting
     [193907] = true, -- Chipped Tyrstone
     [193909] = true, -- Ancient Gem Fragments
@@ -130,6 +150,9 @@ local D = {
     [201285] = true, -- Ancient Jeweler's Illustrations
     [201712] = true, -- Notebook of Crafting Knowledge (Jewelcrafting)
     [204222] = true, -- Conductive Ametrine Shard
+    [205214] = true, -- Snubbed Snail Shells
+    [205216] = true, -- Gently Jostled Jewels
+    [205219] = true, -- Broken Barter Boulder
     --#Leatherworking
     [193910] = true, -- Molted Dragon Scales
     [193913] = true, -- Preserved Animal Parts
@@ -147,7 +170,10 @@ local D = {
     [201275] = true, -- Rare Leatherworker's Diagrams
     [201286] = true, -- Ancient Leatherworker's Diagrams
     [201713] = true, -- Notebook of Crafting Knowledge (Leatherworking)
-    [204232] = true, -- Slyvern Alpha Claw 
+    [204232] = true, -- Slyvern Alpha Claw
+    [204986] = true, -- Flame-Infused Scale Oil
+    [204987] = true, -- Lava-Forged Leatherworker's "Knife"
+    [204988] = true, -- Sulfur-Soaked Skins
     --#Mining
     [194039] = true, -- Heated Ore Sample
     [194062] = true, -- Unyielding Stone Chunk
@@ -196,6 +222,9 @@ local D = {
     [201282] = true, -- Ancient Tailor's Diagrams
     [201715] = true, -- Notebook of Crafting Knowledge (Tailoring)
     [204225] = true, -- Perfect Windfeather
+    [206019] = true, -- Abandoned Reserve Chute
+    [206025] = true, -- Used Medical Wrap Kit
+    [206030] = true, -- Exquisitely Embroidered Banner
     --#Treatise
     [198454] = true, -- Draconic Treatise on Blacksmithing
     [194697] = true, -- Draconic Treatise on Alchemy
