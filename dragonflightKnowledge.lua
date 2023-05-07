@@ -236,6 +236,7 @@ local D = {
     [194704] = true, -- Draconic Treatise on Herbalism
     [194708] = true, -- Draconic Treatise on Mining
     [198510] = true, -- Draconic Treatise on Engineering
+    [201023] = true, -- Draconic Treatise on Skinning
     --#Misc
     [191784] = true, -- Dragon Shard of Knowledge
 }
