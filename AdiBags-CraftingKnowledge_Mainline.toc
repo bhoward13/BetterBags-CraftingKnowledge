@@ -1,7 +1,7 @@
 ## Title: AdiBags - Crafting Knowledge
 ## Notes: Filter for AdiBags to filter Crafting Knowledge items into their own category.
 ## Interface: 100100
-## Version: 1.0.7
+## Version: 1.0.8
 ## Author: Mastec
 ## X-License: MIT
 ## DefaultState: enabled
