@@ -1,0 +1,13 @@
+## Title: BetterBags - Crafting Knowledge
+## Notes: Filter for BetterBags to filter Crafting Knowledge items into their own category.
+## Interface: 100206
+## Version: 1.0.10
+## Author: Mastec
+## X-License: MIT
+## DefaultState: enabled
+## Dependencies: BetterBags
+## X-Curse-Project-ID: 848018
+
+Localization.lua
+dragonflightKnowledge.lua
+core.lua

@@ -1,32 +1,13 @@
 local addonName, addon = ...
 
--- Get reference to AdiBags addon
-local AdiBags = LibStub("AceAddon-3.0"):GetAddon("AdiBags")
-local L = addon.L
+-- Get reference to BetterBags addon
+local BetterBags = LibStub("AceAddon-3.0"):GetAddon("BetterBags")
+local categories = BetterBags:GetModule('Categories')
+local L = BetterBags:GetModule('Localization')
 local D = addon.D
 
-local knowlFilter = AdiBags:RegisterFilter("Crafting Knowledge", 98, "ABEvent-1.0")
-knowlFilter.uiName = L["Crafting Knowledge"]
-knowlFilter.uiDesc = L["Crafting Knowledge added in Dragonflight"]
-
-function knowlFilter:OnInitialize()
-    self.knowledge = D
-end
-
-function knowlFilter:Updatee()
-    self:SendMessage("AdiBags_FiltersChanged")
-end
-
-function knowlFilter:OnEnable()
-    AdiBags:UpdateFilters()
-end
-
-function knowlFilter:OnDisable()
-    AdiBags:UpdateFilters()
-end
-
-function knowlFilter:Filter(slotData)
-    if self.knowledge[tonumber(slotData.itemId)] then
-        return L["Crafting Knowledge"]
+for _, itemList in pairs({D}) do
+    for _, ItemID in pairs(itemList) do
+        categories:AddItemToCategory(ItemID, "Crafting Knowledge")
     end
 end
