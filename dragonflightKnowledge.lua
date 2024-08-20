@@ -1,6 +1,6 @@
 local addonName, addon = ...
 
-local D = {
+local DF_Knowledge = {
     --#Alchemy
     193891, -- Experimental Substance
     193897, -- Reawakened Catalyst
@@ -274,4 +274,4 @@ local D = {
     191784, -- Dragon Shard of Knowledge
 }
 
-addon.D = D
+addon.DF_Knowledge = DF_Knowledge
