@@ -10,4 +10,5 @@
 
 Localization.lua
 dragonflightKnowledge.lua
+thewarwithinKnowledge.lua
 core.lua
