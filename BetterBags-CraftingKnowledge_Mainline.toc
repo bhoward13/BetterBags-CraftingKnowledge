@@ -1,7 +1,7 @@
 ## Title: BetterBags - Crafting Knowledge
 ## Notes: Filter for BetterBags to filter Crafting Knowledge items into their own category.
 ## Interface: 110002
-## Version: 1.1.2
+## Version: 1.1.3
 ## Author: Mastec
 ## X-License: MIT
 ## DefaultState: enabled
