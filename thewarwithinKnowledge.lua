@@ -136,6 +136,7 @@ local TWW_Knowledge = {
     224651, -- Machine-Learned Mining Notes
     227416, -- Faded Miner's Notes
     222553, -- Algari Treatise on Mining
+    224584, -- Erosion Polished Slate
     -- #Skinning
     226340, -- Dornogal Carving Knife
     226341, -- Earthen Worker's Beams
