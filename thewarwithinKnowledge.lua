@@ -16,6 +16,7 @@ local TWW_Knowledge = {
     228773, -- Algari Alchemist's Notebook
     227409, -- Faded Alchemist's Research
     224645, -- Jewel-Etched Alchemy Notes
+    228725, -- Glimmer of Alchemy Knowledge
     -- #Blacksmithing
     226277, -- Dornogal Hammer
     226276, -- Ancient Earthen Anvil
@@ -29,6 +30,8 @@ local TWW_Knowledge = {
     225233, -- Dense Bladestone
     224038, -- Smithing After Saronite
     222554, -- Algari Treatise on Blacksmithing
+    228727, -- Glimmer of Blacksmithing Knowledge
+    198791, -- Glimmer of Blacksmithing Wisdom
     -- #Enchanting
     226285, -- Silver Dornogal Rod
     226284, -- Grinded Earthen Gem
@@ -45,6 +48,7 @@ local TWW_Knowledge = {
     224652, -- Jewel-Etched Enchanting Notes
     227659, -- Fleeting Arcane Manifestation
     222550, -- Algari Treatise on Enchanting
+    228729, -- Glimmer of Enchanting Knowledge
     -- #Engineering
     226293, -- Dornogal Spectacles
     226292, -- Rock Engineer's Wrench
@@ -57,6 +61,7 @@ local TWW_Knowledge = {
     224052, -- Clocks, Gears, Sprockets, and Legs
     227412, -- Faded Engineer's Scribblings
     224653, -- Machine-Learned Engineering Notes
+    228731, -- Glimmer of Engineering Knowledge
     -- #Herbalism
     226301, -- Dornogal Gardening Scythe
     226300, -- Ancient Flower
@@ -85,6 +90,7 @@ local TWW_Knowledge = {
     222548, -- Algari Treatise on Inscription
     225227, -- Wax-Sealed Records
     224053, -- Eight Views on Defense against Hostile Runes
+    228733, -- Glimmer of Inscription Knowledge
     -- #Jewelcrafting
     226317, -- Earthen Gem Pliers
     226316, -- Gentle Jewel Hammer
@@ -98,6 +104,7 @@ local TWW_Knowledge = {
     225225, -- Deepstone Fragment
     222551, -- Algari Treatise on Jewelcrafting
     224054, -- Emergent Crystals of the Surface-Dwellers
+    228735, -- Glimmer of Jewelcrafting Knowledge
     -- #Leatherworking
     226324, -- Earthen Lacing Tools
     226325, -- Dornogal Craftsman's Flat Knife
@@ -112,6 +119,7 @@ local TWW_Knowledge = {
     224007, -- Uses for Leftover Husks (How to Take Them Apart)
     224056, -- Uses for Leftover Husks (After You Take Them Apart)
     225222, -- Stone-Leather Swatch
+    228737, -- Glimmer of Leatherworking Knowledge
     -- #Mining
     226333, -- Dornogal Chisel
     226332, -- Earthen Miner's Gavel
@@ -159,6 +167,7 @@ local TWW_Knowledge = {
     224648, -- Jewel-Etched Tailoring Notes
     227410, -- Faded Tailor's Diagrams
     222547, -- Algari Treatise on Tailoring
+    228739, -- Glimmer of Tailoring Knowledge
 }
 
 addon.TWW_Knowledge = TWW_Knowledge
