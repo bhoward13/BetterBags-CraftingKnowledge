@@ -36,7 +36,8 @@ elseif locale == "ptBR" then
 elseif locale == "ruRU" then
 	--Translation missing
 elseif locale == "zhCN" then
-	--Translation missing
+	L["Crafting Knowledge"] = "专业知识"
+	L["Crafting Knowledge added in Dragonflight"] = "专业知识 - 巨龙时代"
 elseif locale == "zhTW" then
 --Translation missing
 end
