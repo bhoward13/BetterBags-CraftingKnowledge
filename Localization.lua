@@ -1,49 +1,46 @@
 local addonName, addon = ...
 
-local L =
-	setmetatable(
-	{},
-	{
-		__index = function(self, key)
-			if key then
-				rawset(self, key, tostring(key))
-			end
-			return tostring(key)
-		end
-	}
-)
-addon.L = L
+---@class BetterBags: AceAddon
+local addon = LibStub('AceAddon-3.0'):GetAddon('BetterBags')
 
-local locale = GetLocale()
+---@class Localization: AceModule
+local L = addon:GetModule('Localization')
 
-if locale == "deDE" then
-	--Translation missing
-elseif locale == "enUS" then
-	L["Crafting Knowledge"] = true
-	L["Crafting Knowledge added in Dragonflight"] = true
-elseif locale == "esES" then
-	--Translation missing
-elseif locale == "esMX" then
-	--Translation missing
-elseif locale == "frFR" then
-	--Translation missing
-elseif locale == "itIT" then
-	--Translation missing
-elseif locale == "koKR" then
-	--Translation missing
-elseif locale == "ptBR" then
-	--Translation missing
-elseif locale == "ruRU" then
-	--Translation missing
-elseif locale == "zhCN" then
-	--Translation missing
-elseif locale == "zhTW" then
---Translation missing
-end
+L.data["CK Addon Name"] = {
+	["deDE"] = "Crafting Knowledge",
+	["esES"] = "Crafting Knowledge",
+  	["esMX"] = "Crafting Knowledge",
+  	["frFR"] = "Crafting Knowledge",
+  	["itIT"] = "Crafting Knowledge",
+  	["koKR"] = "Crafting Knowledge",
+  	["ptBR"] = "Crafting Knowledge",
+  	["ruRU"] = "Crafting Knowledge",
+  	["zhCN"] = "专业知识",
+  	["zhTW"] = "Crafting Knowledge",
+}
 
--- values by their key
-for k, v in pairs(L) do
-	if v == true then
-		L[k] = k
-	end
-end
+L.data["DF Crafting Knowledge"] = {
+	["deDE"] = "Dragonflight Crafting Knowledge",
+	["esES"] = "Dragonflight Crafting Knowledge",
+  	["esMX"] = "Dragonflight Crafting Knowledge",
+  	["frFR"] = "Dragonflight Crafting Knowledge",
+  	["itIT"] = "Dragonflight Crafting Knowledge",
+  	["koKR"] = "Dragonflight Crafting Knowledge",
+  	["ptBR"] = "Dragonflight Crafting Knowledge",
+  	["ruRU"] = "Dragonflight Crafting Knowledge",
+  	["zhCN"] = "专业知识 - 巨龙时代",
+  	["zhTW"] = "Dragonflight Crafting Knowledge",
+}
+
+L.data["TWW Crafting Knowledge"] = {
+	["deDE"] = "War Within Crafting Knowledge",
+	["esES"] = "War Within Crafting Knowledge",
+  	["esMX"] = "War Within Crafting Knowledge",
+  	["frFR"] = "War Within Crafting Knowledge",
+  	["itIT"] = "War Within Crafting Knowledge",
+  	["koKR"] = "War Within Crafting Knowledge",
+  	["ptBR"] = "War Within Crafting Knowledge",
+  	["ruRU"] = "War Within Crafting Knowledge",
+  	["zhCN"] = "War Within Crafting Knowledge",
+  	["zhTW"] = "War Within Crafting Knowledge",
+}

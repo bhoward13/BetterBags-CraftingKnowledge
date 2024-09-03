@@ -150,6 +150,7 @@ local TWW_Knowledge = {
     222649, -- Algari Treatise on Skinning
     224807, -- Algari Skinner's Notes
     224782, -- Razor Talon
+    224780, -- Toughened Tempest Pelt
     -- #Tailoring
     226348, -- Dornogal Seam Ripper
     226349, -- Earthen Tape Measure
