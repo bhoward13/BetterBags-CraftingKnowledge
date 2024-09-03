@@ -41,6 +41,6 @@ L.data["TWW Crafting Knowledge"] = {
   	["koKR"] = "War Within Crafting Knowledge",
   	["ptBR"] = "War Within Crafting Knowledge",
   	["ruRU"] = "War Within Crafting Knowledge",
-  	["zhCN"] = "War Within Crafting Knowledge",
+  	["zhCN"] = "专业知识 - 地心之战",
   	["zhTW"] = "War Within Crafting Knowledge",
 }
