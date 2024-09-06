@@ -32,6 +32,7 @@ local TWW_Knowledge = {
     222554, -- Algari Treatise on Blacksmithing
     228727, -- Glimmer of Blacksmithing Knowledge
     198791, -- Glimmer of Blacksmithing Wisdom
+    228774, -- Algari Blacksmith's Journal
     -- #Enchanting
     226285, -- Silver Dornogal Rod
     226284, -- Grinded Earthen Gem
