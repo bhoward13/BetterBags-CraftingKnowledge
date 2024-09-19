@@ -25,7 +25,7 @@ local TWW_Knowledge = {
     226281, -- Radiant Tongs
     226280, -- Holy Flame Forge
     226283, -- Spiderling's Wire Brush
-    226282, -- Nerubian Smith's Kit]
+    226282, -- Nerubian Smith's Kit
     224038, -- Smithing After Saronite
     225233, -- Dense Bladestone
     224038, -- Smithing After Saronite
@@ -33,6 +33,8 @@ local TWW_Knowledge = {
     228727, -- Glimmer of Blacksmithing Knowledge
     198791, -- Glimmer of Blacksmithing Wisdom
     228774, -- Algari Blacksmith's Journal
+    224647, -- Jewel-Etched Blacksmithing Notes
+    225232, -- Coreway Billet
     -- #Enchanting
     226285, -- Silver Dornogal Rod
     226284, -- Grinded Earthen Gem
@@ -79,6 +81,7 @@ local TWW_Knowledge = {
     227415, -- Faded Herbalist's Notes
     224656, -- Void-Lit Herbalism Notes
     224817, -- Algari Herbalist's Notes
+    224265, -- Deepgrove Rose
     -- #Inscription
     226308, -- Dornogal Scribe's Quill
     226309, -- Historian's Dip Pen
@@ -138,6 +141,7 @@ local TWW_Knowledge = {
     227416, -- Faded Miner's Notes
     222553, -- Algari Treatise on Mining
     224584, -- Erosion Polished Slate
+    224838, -- Null Sliver
     -- #Skinning
     226340, -- Dornogal Carving Knife
     226341, -- Earthen Worker's Beams
