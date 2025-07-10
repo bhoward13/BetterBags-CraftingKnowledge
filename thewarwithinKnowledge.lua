@@ -35,6 +35,10 @@ local TWW_Knowledge = {
     228774, -- Algari Blacksmith's Journal
     224647, -- Jewel-Etched Blacksmithing Notes
     225232, -- Coreway Billet
+    227407, -- Faded Blacksmith's Diagrams
+    227418, -- Exceptional Blacksmith's Diagrams
+    228726, -- Flicker of Blacksmithing Knowledge
+
     -- #Enchanting
     226285, -- Silver Dornogal Rod
     226284, -- Grinded Earthen Gem
@@ -82,6 +86,7 @@ local TWW_Knowledge = {
     224656, -- Void-Lit Herbalism Notes
     224817, -- Algari Herbalist's Notes
     224265, -- Deepgrove Rose
+    227426, -- Exceptional Herbalist's Notes
     -- #Inscription
     226308, -- Dornogal Scribe's Quill
     226309, -- Historian's Dip Pen
