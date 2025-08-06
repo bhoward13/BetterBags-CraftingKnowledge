@@ -17,6 +17,7 @@ local TWW_Knowledge = {
     227409, -- Faded Alchemist's Research
     224645, -- Jewel-Etched Alchemy Notes
     228725, -- Glimmer of Alchemy Knowledge
+    235865, -- Ethereal Tome of Alchemy Knowledge
     -- #Blacksmithing
     226277, -- Dornogal Hammer
     226276, -- Ancient Earthen Anvil
@@ -38,7 +39,7 @@ local TWW_Knowledge = {
     227407, -- Faded Blacksmith's Diagrams
     227418, -- Exceptional Blacksmith's Diagrams
     228726, -- Flicker of Blacksmithing Knowledge
-
+    235864, -- Ethereal Tome of Blacksmithing Knowledge
     -- #Enchanting
     226285, -- Silver Dornogal Rod
     226284, -- Grinded Earthen Gem
@@ -56,6 +57,7 @@ local TWW_Knowledge = {
     227659, -- Fleeting Arcane Manifestation
     222550, -- Algari Treatise on Enchanting
     228729, -- Glimmer of Enchanting Knowledge
+    235863, -- Ethereal Tome of Enchanting Knowledge
     -- #Engineering
     226293, -- Dornogal Spectacles
     226292, -- Rock Engineer's Wrench
@@ -69,6 +71,7 @@ local TWW_Knowledge = {
     227412, -- Faded Engineer's Scribblings
     224653, -- Machine-Learned Engineering Notes
     228731, -- Glimmer of Engineering Knowledge
+    235862, -- Ethereal Tome of Engineering Knowledge
     -- #Herbalism
     226301, -- Dornogal Gardening Scythe
     226300, -- Ancient Flower
@@ -87,6 +90,7 @@ local TWW_Knowledge = {
     224817, -- Algari Herbalist's Notes
     224265, -- Deepgrove Rose
     227426, -- Exceptional Herbalist's Notes
+    235861, -- Ethereal Tome of Herbalism Knowledge
     -- #Inscription
     226308, -- Dornogal Scribe's Quill
     226309, -- Historian's Dip Pen
@@ -100,6 +104,7 @@ local TWW_Knowledge = {
     225227, -- Wax-Sealed Records
     224053, -- Eight Views on Defense against Hostile Runes
     228733, -- Glimmer of Inscription Knowledge
+    235860, -- Ethereal Tome of Inscription Knowledge
     -- #Jewelcrafting
     226317, -- Earthen Gem Pliers
     226316, -- Gentle Jewel Hammer
@@ -114,6 +119,7 @@ local TWW_Knowledge = {
     222551, -- Algari Treatise on Jewelcrafting
     224054, -- Emergent Crystals of the Surface-Dwellers
     228735, -- Glimmer of Jewelcrafting Knowledge
+    235859, -- Ethereal Tome of Jewelcrafting Knowledge
     -- #Leatherworking
     226324, -- Earthen Lacing Tools
     226325, -- Dornogal Craftsman's Flat Knife
@@ -129,6 +135,7 @@ local TWW_Knowledge = {
     224056, -- Uses for Leftover Husks (After You Take Them Apart)
     225222, -- Stone-Leather Swatch
     228737, -- Glimmer of Leatherworking Knowledge
+    235858, -- Ethereal Tome of Leatherworking Knowledge
     -- #Mining
     226333, -- Dornogal Chisel
     226332, -- Earthen Miner's Gavel
@@ -147,6 +154,7 @@ local TWW_Knowledge = {
     222553, -- Algari Treatise on Mining
     224584, -- Erosion Polished Slate
     224838, -- Null Sliver
+    235857, -- Ethereal Tome of Mining Knowledge
     -- #Skinning
     226340, -- Dornogal Carving Knife
     226341, -- Earthen Worker's Beams
@@ -161,6 +169,7 @@ local TWW_Knowledge = {
     224807, -- Algari Skinner's Notes
     224782, -- Razor Talon
     224780, -- Toughened Tempest Pelt
+    235856, -- Ethereal Tome of Skinning Knowledge
     -- #Tailoring
     226348, -- Dornogal Seam Ripper
     226349, -- Earthen Tape Measure
@@ -180,6 +189,7 @@ local TWW_Knowledge = {
     227410, -- Faded Tailor's Diagrams
     222547, -- Algari Treatise on Tailoring
     228739, -- Glimmer of Tailoring Knowledge
+    235855, -- Ethereal Tome of Tailoring Knowledge
 }
 
 addon.TWW_Knowledge = TWW_Knowledge
