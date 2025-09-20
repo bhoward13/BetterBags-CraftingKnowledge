@@ -14,7 +14,7 @@ L.data["CK Addon Name"] = {
   	["itIT"] = "Crafting Knowledge",
   	["koKR"] = "Crafting Knowledge",
   	["ptBR"] = "Crafting Knowledge",
-  	["ruRU"] = "Crafting Knowledge",
+  	["ruRU"] = "Знания профессии",
   	["zhCN"] = "专业知识",
   	["zhTW"] = "Crafting Knowledge",
 }
@@ -27,7 +27,7 @@ L.data["DF Crafting Knowledge"] = {
   	["itIT"] = "Dragonflight Crafting Knowledge",
   	["koKR"] = "Dragonflight Crafting Knowledge",
   	["ptBR"] = "Dragonflight Crafting Knowledge",
-  	["ruRU"] = "Dragonflight Crafting Knowledge",
+  	["ruRU"] = "Знания профессии Dragonflight",
   	["zhCN"] = "专业知识 - 巨龙时代",
   	["zhTW"] = "Dragonflight Crafting Knowledge",
 }
@@ -40,7 +40,8 @@ L.data["TWW Crafting Knowledge"] = {
   	["itIT"] = "War Within Crafting Knowledge",
   	["koKR"] = "War Within Crafting Knowledge",
   	["ptBR"] = "War Within Crafting Knowledge",
-  	["ruRU"] = "War Within Crafting Knowledge",
+  	["ruRU"] = "Знания профессии War Within",
   	["zhCN"] = "专业知识 - 地心之战",
   	["zhTW"] = "War Within Crafting Knowledge",
 }
+
