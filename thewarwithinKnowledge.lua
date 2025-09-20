@@ -20,6 +20,7 @@ local TWW_Knowledge = {
     235865, -- Ethereal Tome of Alchemy Knowledge
     232499, -- Undermine Treatise on Alchemy
     228724, -- Flicker of Alchemy Knowledge
+    225234, -- Alchemical Sediment
     -- #Blacksmithing
     226277, -- Dornogal Hammer
     226276, -- Ancient Earthen Anvil
